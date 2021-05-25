@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:1.9.8
